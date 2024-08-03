@@ -19,7 +19,7 @@ Run node index.js and follow prompts to explore database
 
 or 
 
-visit the link here to view walkthrough video: [Walktrhough Link] (https://www.awesomescreenshot.com/video/30156422?key=b88db94079d2f7851c699935ed1a37d2)
+visit the link here to view walkthrough video: [Walktrhough Link](https://www.awesomescreenshot.com/video/30156422?key=b88db94079d2f7851c699935ed1a37d2)
 
 ## License
 
